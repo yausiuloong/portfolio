@@ -1,0 +1,45 @@
+.experience__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  /* display: flex;
+  flex-direction: row;
+  gap: 15rem; */
+}
+
+/* directly the div inside the container */
+.experience__container > div {
+  background: var(--color-bg-variant);
+  padding: 2.4rem 5rem; /* 2.4rem for top and bottom, 5rem for left and right*/
+  border-radius: 2rem;
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+
+.experience__container > div:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
+}
+
+.experience__container > div h3 {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: var(--color-primary);
+}
+
+.experience__content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  row-gap: 2rem;
+}
+
+.experience__details {
+  display: flex;
+  gap: 1rem;
+}
+
+.experience__details-icon {
+  margin-top: 6px;
+  color: var(--color-primary);
+}
