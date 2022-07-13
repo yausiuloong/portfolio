@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1440a045.css",
-    "main.js": "/portfolio/static/js/main.a2ab46c2.js",
-    "static/media/2022.jpg": "/portfolio/static/media/2022.fde4ff354dde3a2e6002.jpg",
-    "static/media/heartfailure.jpg": "/portfolio/static/media/heartfailure.5b38373556588ea19815.jpg",
-    "static/media/27f2af99-8175-487a-a393-a02f6b5f715f.jpg": "/portfolio/static/media/27f2af99-8175-487a-a393-a02f6b5f715f.8673143f465eaaf1967c.jpg",
-    "static/media/darkmode.jpeg": "/portfolio/static/media/darkmode.53adbe444e29144462e3.jpeg",
-    "static/media/YauSiuLoong_Resume.pdf": "/portfolio/static/media/YauSiuLoong_Resume.e5e426f5a40d2dcb0021.pdf",
-    "static/media/webby.png": "/portfolio/static/media/webby.8aa66cb2c0bb6ef95e88.png",
-    "static/media/portfolio.png": "/portfolio/static/media/portfolio.46c9d6571aa024d040dd.png",
-    "static/media/attendance.png": "/portfolio/static/media/attendance.c8d16bbae6b836f3b4d9.png",
-    "index.html": "/portfolio/index.html",
-    "main.1440a045.css.map": "/portfolio/static/css/main.1440a045.css.map",
-    "main.a2ab46c2.js.map": "/portfolio/static/js/main.a2ab46c2.js.map"
+    "main.css": "/static/css/main.1440a045.css",
+    "main.js": "/static/js/main.333aacd1.js",
+    "static/media/2022.jpg": "/static/media/2022.fde4ff354dde3a2e6002.jpg",
+    "static/media/heartfailure.jpg": "/static/media/heartfailure.5b38373556588ea19815.jpg",
+    "static/media/27f2af99-8175-487a-a393-a02f6b5f715f.jpg": "/static/media/27f2af99-8175-487a-a393-a02f6b5f715f.8673143f465eaaf1967c.jpg",
+    "static/media/darkmode.jpeg": "/static/media/darkmode.53adbe444e29144462e3.jpeg",
+    "static/media/YauSiuLoong_Resume.pdf": "/static/media/YauSiuLoong_Resume.e5e426f5a40d2dcb0021.pdf",
+    "static/media/webby.png": "/static/media/webby.8aa66cb2c0bb6ef95e88.png",
+    "static/media/portfolio.png": "/static/media/portfolio.46c9d6571aa024d040dd.png",
+    "static/media/attendance.png": "/static/media/attendance.c8d16bbae6b836f3b4d9.png",
+    "index.html": "/index.html",
+    "main.1440a045.css.map": "/static/css/main.1440a045.css.map",
+    "main.333aacd1.js.map": "/static/js/main.333aacd1.js.map"
   },
   "entrypoints": [
     "static/css/main.1440a045.css",
-    "static/js/main.a2ab46c2.js"
+    "static/js/main.333aacd1.js"
   ]
 }
