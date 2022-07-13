@@ -35,10 +35,11 @@ const About = () => {
             </article>
           </div>
           <p className="p1">
-            I am a highly motivated software developer as I believe that the
-            world is heading towards an all digital era, where software systems
-            are replacing all manual labour one step at a time, I think software
-            will bring humanity to the next high.
+            Fresh graduate student from Monash University Malaysia with
+            bachelor's degree in Software Engineering. Highly experience in full
+            stack development. Competent in data analytics and data processing
+            for big data. Have strong background on data structures, algorithms
+            and SQL database concepts.
           </p>
 
           <p className="p2">
